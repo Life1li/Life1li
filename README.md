@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Life1li
-- 👀 I’m interested in how coding works.
-- 🌱 I’m currently learning how to code.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning how to code better.
 - 💞️ I’m looking to collaborate on games/projects
 - 📫 How to reach me haoxlin314@gmail.com
 
